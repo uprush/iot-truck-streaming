@@ -21,7 +21,7 @@ $ sudo echo "172.16.139.139 sandbox.hortonworks.com" >> /etc/hosts
 ```bash
 $ ssh root@sandbox.hortonworks.com
 $ cd
-$ git clone https://github.com/DhruvKumar/iot-truck-streaming
+$ git clone https://github.com/uprush/iot-truck-streaming
 ```
 
 
